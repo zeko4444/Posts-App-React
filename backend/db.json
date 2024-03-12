@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "id": "5206",
+      "title": "post 1",
+      "body": "body for post 1",
+      "user": 12
+    },
+    {
+      "id": "ce75",
+      "title": "post 2 updated",
+      "body": "body for post 2",
+      "user": 12
+    },
+    {
+      "id": "0f2f",
+      "title": "post 4",
+      "body": "body for post 4",
+      "user": 13
+    },
+    {
+      "id": "dd32",
+      "title": "post by zeko",
+      "body": "body for this postee",
+      "user": 14
+    },
+    {
+      "id": "d00f",
+      "title": "ddddd",
+      "body": "ddddd",
+      "user": 17
+    }
+  ]
+}
