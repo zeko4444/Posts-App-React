@@ -121,16 +121,7 @@ export default function NavbarDefault(props) {
           )}
         </IconButton>
       </div>
-      <MobileNav open={openNav} className="flex justify-center">
-        <div className="container mx-auto">
-          {navList}
-          <div className=" gap-x-1">
-            <Link to={"/login "}>
-              <span>{path}</span>
-            </Link>
-          </div>
-        </div>
-      </MobileNav>
+     
     </Navbar>
   );
 }
